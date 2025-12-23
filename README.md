@@ -60,7 +60,8 @@ Prioritizing Field UX: Identified that security must be frictionless for aid wor
 - Culture as a Core Control: Confirmed that Security Awareness and Culture (SAC) is as vital as technical infrastructure, as the most lasting impact came from a shift in how staff valued data.<br />
 
 <h2>Deliverables:</h2>
-AI Security & Strategic Alignment Policy
+
+### AI Security & Strategic Alignment Policy
 
 The CRC identifies significant opportunities to leverage AI across both frontline services and back-office operations. To ensure these innovations do not compromise the organization’s mission, the following use cases and risk mitigations have been prioritized:
 
